@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Zhipeng Wang
 
-You can use the [editor on GitHub](https://github.com/usamieiji/usamieiji.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+School of Electronic Engineering
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Xidian University
 
-### Markdown
+Address: No.2 South Taibai Road, Xi'an 710071, Shaanxi, China
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: zpwang1996@gmail.com
+
+## Biography
+
+2014.8 - 2018.7 Undergraduate student at school of telecommunication in Xidian University
+2018.8 - Now    M.S. student at school of electronic engineering in Xidian University
 
 ```markdown
 Syntax highlighted code block
